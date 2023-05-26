@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🙋‍♀️ We're a small team focused on creating quality software that WE would want to use!
+🌈 Want to help? Navigate to the repo to see it's contribution rules.
+👩‍💻 Need help? Visit the Wiki page for more information. If you can't find what you're looking for, shoot us an email!
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
